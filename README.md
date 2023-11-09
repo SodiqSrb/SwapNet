@@ -1,4 +1,4 @@
-# STATUS AS OF SEPTEMBER 4 2020
+# VIRTUAL CLOTHE TRY:ON
 Hi all, thank you for your interest in my replication of this baseline! Since this repository seems to be generating a lot of traffic under issues, I just wanted to comment that I'm currently **not** able to maintain this repository. I'm working on a separate virtual try-on publication+codebase which I hope to release by next month (October). I welcome and will merge good PRs, but I won't be able to resolve issues for the time being. Thanks for understanding!
 
 # SwapNet
@@ -19,14 +19,11 @@ I'd welcome help to improve the DevOps of this project. Unfortunately I have oth
 <details>
 <Summary> Option 1: Install with Docker </Summary>
     
-Many thanks to Urwa Muaz for getting this started.
 
-You can install and run this code using [Docker](https://docs.docker.com/install/) 
+Then I will run this code using [Docker](https://docs.docker.com/install/) 
 (specifically community edition, Docker 19.03 or higher) and the provided Docker image.
 Docker enables sharing the same environment across different computers and operating 
-systems. This could save you some setup headache; however, there is some developer
-overhead because you have to interact through Docker. If you prefer to build without 
-Docker, skip to Option 2: Conda Install. Otherwise, follow the instructions below.
+systems. 
 
 
 1. Clone this repo to your computer.
